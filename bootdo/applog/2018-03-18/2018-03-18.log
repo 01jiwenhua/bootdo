@@ -1,0 +1,19 @@
+2018-03-18 10:17:09 -Starting BootdoApplication on DESKTOP-IH02PNH with PID 23872 (D:\workSpace\server\bootdo\bootdo\target\classes started by xuan in D:\workSpace\server\bootdo\bootdo)
+2018-03-18 10:17:10 -Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2018-03-18 10:17:10 -The following profiles are active: dev
+2018-03-18 10:17:18 -ApplicationContext registed-->org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@26425897: startup date [Sun Mar 18 10:17:10 CST 2018]; root of context hierarchy
+2018-03-18 10:17:19 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field menuMapper in com.bootdo.system.service.impl.MenuServiceImpl required a bean of type 'com.bootdo.system.dao.MenuDao' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.bootdo.system.dao.MenuDao' in your configuration.
+
